@@ -71,6 +71,28 @@ When we created this static website we could access it locally from our machine 
 
 To do this we need to navigate to permissions for our S3 bucket. Scroll down to <code>Block public access (bucket settings)</code>, click edit and uncheck <code>Block All Public Access</code> and save changes.
 
+![image](https://github.com/user-attachments/assets/baf2e5e8-e20b-489d-ba4b-c5423c65a1d4)
 
+Now going back to check your website, its still saying access denied. With this we need to make all the objects within the bucket publiclly accessible.
+
+To do this we need to select all the objects in our bucket and select the action <code>Make public using ACL</code> but if this action is unavalables, we need to enable it.
+
+Go to permissions and scroll down to Object Ownership and edit to enable ACLs. Acknowklegde and Save Changes.
+
+![image](https://github.com/user-attachments/assets/0460401f-df60-40de-9d2e-93b6ad5337b1)
+
+Go back select all the objects and select the action <code>Make public using ACL</code>
+
+![image](https://github.com/user-attachments/assets/0799ebbf-8705-4c60-b9fd-208299f941e8)
+
+Make Public!
+
+![image](https://github.com/user-attachments/assets/60869e1e-8c62-4c47-8a35-f1d0171b0274)
+
+Once Public, refresh your Object URL and it should be your static website hosted on AWS.
+
+![image](https://github.com/user-attachments/assets/32a12bc2-9141-42dd-8db1-f80a02a61e3d)
+
+Thank You!
 
 
