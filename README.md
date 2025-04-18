@@ -1,4 +1,4 @@
-# Static-Website-Using-Amazon-S3
+# Creating a Static Website Using Amazon S3
 
 ## Objective
 The purpose of this project is to demonstarte how to create a static website using an Amazon S3 bucket.
