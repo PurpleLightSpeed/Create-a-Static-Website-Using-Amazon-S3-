@@ -9,7 +9,7 @@ Using AWS S3 to host a static internet facing website.
 ### Tools Used
 - AWS (You will need an AWS free tier account to complete this project)
 - <a href="https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteHosting.html"> AWS S3 </a>
-- <a href="https://notepad-plus-plus.org/"> Notepad++ </a>
+- <a href="https://notepad-plus-plus.org/"> Notepad++ </a> (HTML)
 
 ## Steps
 
