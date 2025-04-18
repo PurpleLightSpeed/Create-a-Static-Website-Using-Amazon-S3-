@@ -1,1 +1,1 @@
-# Create-a-Static-Website-Using-Amazon-S3-
+# Static-Website-Using-Amazon-S3
