@@ -93,6 +93,6 @@ Once Public, refresh your Object URL and it should be your static website hosted
 
 ![image](https://github.com/user-attachments/assets/32a12bc2-9141-42dd-8db1-f80a02a61e3d)
 
-Thank You!
+That concludes this project. Thank You!
 
 
